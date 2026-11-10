@@ -1,11 +1,11 @@
 //1reto
 const usuario = {
-  nombre: "Juan Daniel",
-  apellido: " Tapias Garcia",
-  edad: 25,
+  nombre: "Jesus",
+  apellido: " Perez",
+  edad: 26,
   direccion: {
-    calle: "Calle 123 #45-67",
-    ciudad: "Bucaramanga",
+    calle: "Carrera 15A # 23-45",
+    ciudad: "San Gil",
     pais: "Colombia",
   },
   presentarse() {
